@@ -43,17 +43,3 @@ Built using **HTML, CSS, Bootstrap, and JavaScript**, featuring cart functionali
 - Modal-based navigation (Size Guide, Checkout, Legal pages)
 
 ---
-
-## 📁 Project Structure
-
-
----
-
-## 📸 Screenshots (Optional)
-
-_Add screenshots to improve presentation:_
-
-```md
-![Homepage](screenshots/home.png)
-![Product Card](screenshots/product.png)
-![Checkout](screenshots/checkout.png)
